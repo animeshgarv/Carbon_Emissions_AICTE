@@ -1,30 +1,43 @@
 # 🌍 Carbon Emissions Prediction – Internship Project
 
-Hey there! 👋  
-This is my personal repository for tracking progress on an internship project where I'm working on **predicting carbon emissions** using historical climate data. The aim is to explore how environmental factors relate to CO₂ output and eventually build a predictive model based on those patterns.
+Welcome to my internship project repository!  
+This project focuses on predicting **carbon emissions** using historical climate data. The goal is to explore how environmental indicators—like fossil fuel use, temperature changes, and other climate factors—correlate with CO₂ output, and to build a predictive model based on these relationships.
 
 ---
 
-## 📁 What’s Included (Week 1)
+## 📁 Week 1 – What’s Included
 
-- `climate_change_download_0.xls` – The raw dataset containing various climate and emission-related indicators.
-- `data_cleaned.csv` – Cleaned version of the dataset after handling missing values and formatting.
-- `1_data_preparation.ipynb` – The notebook where I:
-  - Loaded and explored the raw data
-  - Cleaned and preprocessed the dataset
-  - Exported it to a cleaner format for further analysis
+- `climate_change_download_0.xls`  
+  Raw dataset containing climate-related and emission-related data from external sources.
 
----
+- `data_cleaned.csv`  
+  Cleaned and preprocessed dataset ready for analysis, with missing values handled and formatting issues fixed.
 
-## 🔍 What I’m Exploring
-
-Throughout this internship, I’ll be:
-- Understanding how climate indicators affect carbon emissions
-- Applying data cleaning and preprocessing techniques
-- Performing exploratory data analysis (EDA)
-- Using machine learning tools to build and evaluate predictive models
-- Improving both technical and research-based understanding of environmental data
+- `1_data_preparation.ipynb`  
+  Jupyter notebook where I:
+  - Explored and loaded the raw data
+  - Cleaned and structured the dataset
+  - Exported the final version for further analysis and modeling
 
 ---
 
-This repo will be updated regularly as I move forward in the project. Suggestions, feedback, or discussions are always welcome!
+## 🔍 Project Overview
+
+The broader goals of this project include:
+- Analyzing key patterns and trends in carbon emissions over time
+- Understanding the impact of climate indicators on emissions
+- Applying data cleaning, feature selection, and visualization techniques
+- Building and evaluating predictive models using machine learning
+
+---
+
+## 📌 Notes
+
+- This repository will be updated weekly as the project progresses.
+- All work is done independently as part of my internship assignment.
+- The project is a learning-focused journey, and feedback is always welcome!
+
+---
+
+Thanks for visiting!  
+Feel free to check out the notebooks and datasets, and stay tuned for upcoming weeks as I dive deeper into the modeling and insights.
