@@ -5,7 +5,7 @@ This project focuses on predicting **carbon emissions** using historical climate
 
 ---
 
-## 📁 Week 1 – What’s Included
+## 📁 Week 1 – Data Preparation
 
 - `climate_change_download_0.xls`  
   Raw dataset containing climate-related and emission-related data from external sources.
@@ -17,7 +17,20 @@ This project focuses on predicting **carbon emissions** using historical climate
   Jupyter notebook where I:
   - Explored and loaded the raw data
   - Cleaned and structured the dataset
-  - Exported the final version for further analysis and modeling
+  - Exported it to a cleaner format for further analysis
+
+---
+
+## 📁 Week 2 – Data Exploration
+
+- `2_data_exploration.ipynb`  
+  This notebook was provided by the mentor and covers basic exploratory data analysis (EDA) on the cleaned dataset.
+
+  This week, I:
+  - Ran and reviewed all sections of the notebook
+  - Gained insights into variable distributions and correlations
+  - Took notes on potentially important features for prediction
+  - Prepared for upcoming work on feature engineering and modeling
 
 ---
 
@@ -33,11 +46,11 @@ The broader goals of this project include:
 
 ## 📌 Notes
 
-- This repository will be updated weekly as the project progresses.
-- All work is done independently as part of my internship assignment.
+- This repository is being updated weekly as the project progresses.
+- All work is part of a guided internship where I follow mentor inputs while contributing independently.
 - The project is a learning-focused journey, and feedback is always welcome!
 
 ---
 
 Thanks for visiting!  
-Feel free to check out the notebooks and datasets, and stay tuned for upcoming weeks as I dive deeper into the modeling and insights.
+Stay tuned for further updates as I continue building on this foundation.
