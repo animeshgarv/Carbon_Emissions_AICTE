@@ -24,13 +24,28 @@ This project focuses on predicting **carbon emissions** using historical climate
 ## 📁 Week 2 – Data Exploration
 
 - `2_data_exploration.ipynb`  
-  This notebook was provided by the mentor and covers basic exploratory data analysis (EDA) on the cleaned dataset.
+  Mentor-provided notebook used to perform exploratory data analysis (EDA) on the cleaned dataset.
 
   This week, I:
-  - Ran and reviewed all sections of the notebook
-  - Gained insights into variable distributions and correlations
-  - Took notes on potentially important features for prediction
-  - Prepared for upcoming work on feature engineering and modeling
+  - Ran and reviewed each section to understand trends and distributions
+  - Observed variable correlations and potential feature relationships
+  - Took notes for use in model design in the next stage
+
+---
+
+## 📁 Week 3 – Model Building
+
+- `3_model_building.ipynb`  
+  This notebook builds a predictive model for CO₂ emissions based on the cleaned dataset.
+
+  This week, I:
+  - Followed the complete modeling workflow
+  - Ran the full pipeline including training and prediction
+  - Reviewed model inputs, outputs, and performance
+
+- Trained model file (`forecasting_co2_emmision.pkl`)  
+  ⚠️ The `.pkl` file is too large to upload directly to GitHub.  
+  👉 You can download it here: [Download CO₂ Prediction Model (.pkl)](https://drive.google.com/file/d/1LrD_pR68-3JjtDm2ulfHzSDZzUY4RH1R/view?usp=sharing)
 
 ---
 
@@ -46,11 +61,9 @@ The broader goals of this project include:
 
 ## 📌 Notes
 
-- This repository is being updated weekly as the project progresses.
-- All work is part of a guided internship where I follow mentor inputs while contributing independently.
-- The project is a learning-focused journey, and feedback is always welcome!
+- This repository contains the final project work completed as part of the internship.
+- The structure and base code were guided by the mentor. All notebooks were executed, reviewed, and understood thoroughly as part of the learning process.
 
 ---
 
-Thanks for visiting!  
-Stay tuned for further updates as I continue building on this foundation.
+Thank you for reviewing the project!
